@@ -1,0 +1,34 @@
+﻿[
+  {
+    FirstName: Jan,
+    LastName: Kowalski,
+    Age: 30,
+    Email: jan.kowalski@example.com,
+    PhoneNumber: 123-456-789,
+    Address: {
+      Street: ul. Zielona 1,
+      City: Warszawa,
+      ZipCode: 00-001
+    },
+    Hobbies: [
+      Piłka nożna,
+      Gotowanie
+    ]
+  },
+  {
+    FirstName: Anna,
+    LastName: Nowak,
+    Age: 25,
+    Email: anna.nowak@example.com,
+    PhoneNumber: 987-654-321,
+    Address: {
+      Street: ul. Kwiatowa 5,
+      City: Kraków,
+      ZipCode: 30-002
+    },
+    Hobbies: [
+      Czytanie,
+      Podróże
+    ]
+  }
+]
